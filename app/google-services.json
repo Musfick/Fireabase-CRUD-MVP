@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137074133249",
+    "firebase_url": "https://fireabase-crud-mvp.firebaseio.com",
+    "project_id": "fireabase-crud-mvp",
+    "storage_bucket": "fireabase-crud-mvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137074133249:android:5bcc60cde2312c2881b300",
+        "android_client_info": {
+          "package_name": "com.foxhole.fireabasecrudmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137074133249-eg9be9q8pie1hlmotbvon9dbj608sfto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foxhole.fireabasecrudmvp",
+            "certificate_hash": "12b109805deb4b047de48fc583a74cb60d12d322"
+          }
+        },
+        {
+          "client_id": "137074133249-bc3jo76154b0fj1av2ptftm3uriftfj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lHxhaviAriF1BnU_DJ3MA3aFqNLpKqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137074133249-bc3jo76154b0fj1av2ptftm3uriftfj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
